@@ -32,5 +32,25 @@
                                                     "pais" : "Brasil"
                                                  }
                                               """;
+
+        public string Exemplo1()
+            => this.StringLiteralExemplo1; // Resultado: Isto é uma "String literal"
+
+        public string Exemplo2()
+            => this.StringLiteralExemplo2; // Resultado: {10 + 20} = 30
+
+        public string Exemplo3()
+            => this.StringLiteralExemplo3; /* Resultado: {
+                                                    "id" : 10,
+                                                    "nome" : "Rafael",
+                                                    "pais" : "Brasil"
+                                                 } */
+        public string Exemplo4()
+            => this.StringLiteralExemplo4; /* Resultado: {
+                                                    "id" : 1,
+                                                    "nome" : "Rafael",
+                                                    "pais" : "Brasil"
+                                                 } */
+
     }
 }
