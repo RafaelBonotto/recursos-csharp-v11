@@ -11,5 +11,8 @@ var listPattern = new ListPatternMatching();
 
 var teste1 = listPattern.VerificaPrimeiraPosicao();
 var teste2 = listPattern.VerificaSegundaPosicao();
+var teste3 = listPattern.VerificaPosicoesAleatorias();
+
 Console.WriteLine("Teste 1 list pattern: " + teste1);
 Console.WriteLine("Teste 2 list pattern: " + teste2);
+Console.WriteLine("Teste 3 list pattern: " + teste3);
