@@ -10,4 +10,6 @@ Console.WriteLine("=============================================================
 var listPattern = new ListPatternMatching();
 
 var teste1 = listPattern.VerificaPrimeiraPosicao();
-Console.WriteLine(teste1);
+var teste2 = listPattern.VerificaSegundaPosicao();
+Console.WriteLine("Teste 1 list pattern: " + teste1);
+Console.WriteLine("Teste 2 list pattern: " + teste2);
