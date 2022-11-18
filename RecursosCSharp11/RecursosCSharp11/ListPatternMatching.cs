@@ -37,5 +37,14 @@
 
             return result; // Resultado = true (Sem verificar o tamanho e as demais posições, verifica somente a ultima)
         }
+
+        public bool VerificaPenultimaPosicao()
+        {
+            bool result = false;
+            int[] numeros = { 1, 2, 3, 4, 5 };
+            result = numeros is [.., 4, _];
+
+            return result; // Resultado = true (Sem verificar o tamanho e as primeiras posições, verifica somente a penultima)
+        }
     }
 }
