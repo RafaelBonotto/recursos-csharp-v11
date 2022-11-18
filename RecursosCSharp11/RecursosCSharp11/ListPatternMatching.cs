@@ -28,5 +28,14 @@
 
             return result; // Resultado = false (Tamanho do array correspondente porém posições dos números não encontradas)
         }
+
+        public bool VerificaUltimaPosicao()
+        {
+            bool result = false;
+            int[] numeros = { 1, 2, 3, 4, 5 };
+            result = numeros is [.., 5];
+
+            return result; // Resultado = true (Sem verificar o tamanho e as demais posições, verifica somente a ultima)
+        }
     }
 }
