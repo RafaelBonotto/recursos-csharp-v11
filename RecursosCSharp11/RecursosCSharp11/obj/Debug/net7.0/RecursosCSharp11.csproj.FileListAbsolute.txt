@@ -1,0 +1,15 @@
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\recursos-csharp-v11\RecursosCSharp11\RecursosCSharp11\bin\Debug\net7.0\RecursosCSharp11.exe
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\recursos-csharp-v11\RecursosCSharp11\RecursosCSharp11\bin\Debug\net7.0\RecursosCSharp11.deps.json
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\recursos-csharp-v11\RecursosCSharp11\RecursosCSharp11\bin\Debug\net7.0\RecursosCSharp11.runtimeconfig.json
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\recursos-csharp-v11\RecursosCSharp11\RecursosCSharp11\bin\Debug\net7.0\RecursosCSharp11.dll
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\recursos-csharp-v11\RecursosCSharp11\RecursosCSharp11\bin\Debug\net7.0\RecursosCSharp11.pdb
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\recursos-csharp-v11\RecursosCSharp11\RecursosCSharp11\obj\Debug\net7.0\RecursosCSharp11.csproj.AssemblyReference.cache
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\recursos-csharp-v11\RecursosCSharp11\RecursosCSharp11\obj\Debug\net7.0\RecursosCSharp11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\recursos-csharp-v11\RecursosCSharp11\RecursosCSharp11\obj\Debug\net7.0\RecursosCSharp11.AssemblyInfoInputs.cache
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\recursos-csharp-v11\RecursosCSharp11\RecursosCSharp11\obj\Debug\net7.0\RecursosCSharp11.AssemblyInfo.cs
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\recursos-csharp-v11\RecursosCSharp11\RecursosCSharp11\obj\Debug\net7.0\RecursosCSharp11.csproj.CoreCompileInputs.cache
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\recursos-csharp-v11\RecursosCSharp11\RecursosCSharp11\obj\Debug\net7.0\RecursosCSharp11.dll
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\recursos-csharp-v11\RecursosCSharp11\RecursosCSharp11\obj\Debug\net7.0\refint\RecursosCSharp11.dll
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\recursos-csharp-v11\RecursosCSharp11\RecursosCSharp11\obj\Debug\net7.0\RecursosCSharp11.pdb
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\recursos-csharp-v11\RecursosCSharp11\RecursosCSharp11\obj\Debug\net7.0\RecursosCSharp11.genruntimeconfig.cache
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\recursos-csharp-v11\RecursosCSharp11\RecursosCSharp11\obj\Debug\net7.0\ref\RecursosCSharp11.dll
